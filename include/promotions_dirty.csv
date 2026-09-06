@@ -1,0 +1,101 @@
+promo_code,channel,discount_pct,campaign_name,start_date,end_date
+ holi30 ,SOCIAL,20,Holiday Special,2025-03-26,06/24/2025
+ vip9 ,social,0.3,VIP Special,19-Jun-2025,2025-06-09
+BUND29,REFERRAL,0.08,Bundle Special,2025-08-28,11/26/2025
+SUMM13, email,12,Summer Special,03/25/2025,05/24/2025
+CLEA16,website,25,Clearance Special,2025-01-02,2025-02-01
+ welc22 ,social,10,Welcome Special,2025-02-12,05/13/2025
+HOLI19,email,-10,Holiday Special,08/14/2025,2025-10-13
+VIP28,referral,15%,VIP Special,2025-04-22,2025-05-22
+FLAS9,REFERRAL,5,Flash Special,2025-10-04,11/03/2025
+VIP8,SOCIAL,20,VIP Special,06/15/2025,2025-08-14
+CLEA10,website,8,Clearance Special,2025-06-14,2025-13-40
+WELC25,website,25,Welcome Special,13-May-2025,10-Sep-2025
+CLEA29,website,15,Clearance Special,2025-07-10,2025-09-08
+SUMM27,email,5,Summer Special,10/04/2025,2026-01-02
+BUND17, email,30,Bundle Special,2025-07-21,19-Sep-2025
+WEEK15,web,8,Weekend Special,2025-13-40,2025-01-11
+CLEA20,referral,25,Clearance Special,02-Jun-2025,NULL
+VIP17,social,12%,VIP Special,04/04/2025,unknown
+LOYA14,Referral,25%,Loyalty Special,01/09/2025,2025-03-10
+REFE9,website,15,Referral Special,2025-09-22,2025-11-21
+SUMM12,website,5,  Summer Special  ,12-Oct-2025,11-Nov-2025
+ loya9 ,social,0.08,Loyalty Special,2025-09-17,2025-10-17
+WEEK25,SOCIAL,20,  Weekend Special  ,2025-09-14,2025-10-14
+WELC15,social,,Welcome Special,2025-04-15,14-Jun-2025
+VIP15,email,15,VIP Special,03/07/2025,2025-04-06
+NEWY15,email,15,NewYear Special,08/07/2025,2025-11-05
+BUND15,SOCIAL,8,Bundle Special,01/08/2025,2025-03-09
+SUMM13,SOCIAL,12,Loyalty Special,2025-05-26,07/25/2025
+NEWY16,referral,10,NewYear Special,2025-03-09,2025-06-07
+BACK13,social,-30,BackToSchool Special,2025-10-12,11-Nov-2025
+VIP29,website,-12,VIP Special,2025-05-09,08/07/2025
+CLEA8,social,5,  Clearance Special  ,10/11/2025,12/10/2025
+HOLI30,Referral,15%,Holiday Special,2025-03-23,2025-05-22
+MEMB6,website,15,Membership Special,09/09/2025,08-Dec-2025
+BACK24,social,20%,BackToSchool Special,22-Jun-2025,2025-07-22
+ANNI15,Social,30%,  Anniversary Special  ,2025-03-10,06/08/2025
+WEEK22,email,25,Weekend Special,19-Feb-2025,20-Apr-2025
+MEMB10,WEBSITE,10,Membership Special,2025-08-03,01-Nov-2025
+ summ9 ,referral,-20,Summer Special,03/21/2025,2025-05-20
+VIP29,web,-12,NewYear Special,07/22/2025,unknown
+WELC23,Email,8%,Welcome Special,02/24/2025,2025-03-26
+SUMM27,Social,30%,Summer Special,05/06/2025,2025-13-40
+FLAS8,website,25%,Flash Special,09/24/2025,2026-01-22
+SUMM12,referral,20,BackToSchool Special,2025-08-13,2025-10-12
+CLEA30,EMAIL,30,Clearance Special,2025-06-03,2025-08-02
+FLAS11,website,8,Flash Special,05/23/2025,2025-13-40
+NEWY21,website,20%,NewYear Special,2025-05-02,2025-04-22
+LOYA23,REFERRAL,5,Loyalty Special,2025-07-06,10/04/2025
+LOYA25,email,0.12,Loyalty Special,10/26/2025,2025-11-25
+LOYA23, email,20,Loyalty Special,27-Jun-2025,10/25/2025
+WELC11,email,20,Welcome Special,2025-06-06,2025-07-06
+SUMM20,website,15,Summer Special,05/08/2025,07-Jun-2025
+BUND9,Referral,,Bundle Special,2025-09-26,2025-11-25
+LOYA12,referral,25,Loyalty Special,04/28/2025,2025-07-27
+CLEA17,website,30,Clearance Special,05/15/2025,2025-06-14
+MEMB25,website,30,Membership Special,2025-02-03,2025-05-04
+ANNI18, email,10,Anniversary Special,07/14/2025,11/11/2025
+REFE27,REFERRAL,8,Referral Special,2025-05-05,07/04/2025
+ANNI18,social,30,Anniversary Special,09/09/2025,unknown
+SUMM12,referral,20%,Loyalty Special,09/09/2025,2025-11-08
+FLAS28,Email,5%,Flash Special,2025-08-07,05-Nov-2025
+ week5 ,social,10,  Weekend Special  ,2025-13-40,unknown
+ week5 ,email,10%,Bundle Special,10/14/2025,2026-02-11
+BACK10,referral,0.15,BackToSchool Special,04/04/2025,2025-13-40
+NEWY23,website,15%,NewYear Special,18-Jan-2025,2025-02-17
+MEMB19,web,,Membership Special,2025-02-22,24-Mar-2025
+BUND13,email,8,Bundle Special,2025-07-27,08/26/2025
+FLAS29,social,30,Flash Special,06/14/2025,14-Jul-2025
+BUND21,SOCIAL,30%,Bundle Special,2025-04-17,06/16/2025
+ welc6 ,Social,0.3,  Welcome Special  ,2025-03-12,2025-03-02
+BACK12,SOCIAL,0.15,BackToSchool Special,2025-08-13,2025-11-11
+CLEA5,referral,15%,Clearance Special,12-Oct-2025,02/09/2026
+BUND28,referral,20,Bundle Special,09-Apr-2025,2025-05-09
+SUMM5,referral,25%,Summer Special,02/25/2025,2025-03-27
+HOLI22,referral,12,Holiday Special,10/02/2025,2025-09-22
+ memb18 ,referral,12%,Membership Special,2025-08-14,2025-13-40
+CLEA12,REFERRAL,15,Clearance Special,01/16/2025,02/15/2025
+WEEK14,website,-15,Weekend Special,2025-05-16,2025-07-15
+MEMB5,referral,12,Membership Special,2025-05-18,2025-08-16
+LOYA13,social,15%,Loyalty Special,2025-10-20,19-Nov-2025
+CLEA12,email,20,Clearance Special,2025-09-17,11/16/2025
+WELC12,email,10,Welcome Special,03/09/2025,2025-07-07
+NEWY27,referral,15%,NewYear Special,2025-13-40,06/13/2025
+ memb26 ,Referral,-15,Membership Special,05/28/2025,2025-06-27
+HOLI30,EMAIL,5,Holiday Special,2025-07-08,09/06/2025
+VIP29,SOCIAL,20,VIP Special,2025-06-02,2025-08-31
+ memb25 ,Referral,15,Membership Special,23-Mar-2025,21-Jun-2025
+BUND8,EMAIL,8%,  Bundle Special  ,2025-13-40,2025-10-02
+WEEK17,EMAIL,,Weekend Special,2025-06-02,2025-09-30
+ summ24 ,social,0.05,Summer Special,2025-05-11,2025-13-40
+BUND16,WEBSITE,25,Bundle Special,2025-09-15,10/15/2025
+WEEK24,website,20,Weekend Special,2025-13-40,2026-01-12
+WEEK23,email,30,Weekend Special,2025-09-18,2025-10-18
+REFE30,WEBSITE,15,Referral Special,01/24/2025,2025-01-14
+NEWY15,EMAIL,25,VIP Special,2025-13-40,03-Aug-2025
+REFE12,Social,0.05,  Referral Special  ,07-Jan-2025,2025-02-06
+REFE20,website,8,Referral Special,03/23/2025,22-May-2025
+ loya8 ,EMAIL,10,Loyalty Special,08/22/2025,unknown
+LOYA14,REFERRAL,8,Loyalty Special,02-Apr-2025,2025-06-01
+WELC17,referral,25%,Welcome Special,2025-10-01,2026-01-29

@@ -1,0 +1,106 @@
+customer_id,first_name,last_name,email,signup_date,city,country
+81,Vanna,  Vong  ,vanna.vong81@example.com,2025-03-28,Seoul,Vietnam
+10,THEARY,Seng,theary.seng10@example.com,14-Oct-2025,Singapore,KR
+73,Chan,chhun,chan.chhun73@example.com,2025-03-29,Ho Chi Minh City,cambodia
+24,CHAN,VONG,chan.vong24@example.com,09/07/2025,Battambang,Malaysia
+83,dara,nou,dara.nou83@example.com,17-Nov-2025,Battambang,Singapore
+43,Sreymom,seng,sreymom.seng43@example.com,2026-04-07,Singapore,Viet Nam
+95,theary,Yin,chan.chan74@example.com,01/31/2026,,South Korea
+100,SOPHEAK,OUK,sopheak.ouk100@example.com,11/13/2025,Seoul,Thailand
+74,  Chan  ,  Chan  ,chan.chan74@example.com,2025-11-24,N/A,Thailand
+99,SOKHA,Keo,sokha.keo99@example.com,2025-12-05,Ho Chi Minh City,Viet Nam
+86,  Dara  ,  Vong  ,dara.vong86example.com,07/27/2025,Phnom Penh,Thailand
+61,  Bopha  ,Chan,bopha.chan61@example.com,20-May-2025,Seoul,SG
+92,Rachana,NULL,rachana.ly92@example.com,2025-02-03,Singapore,Vietnam
+13,  Vanna  ,KIM,vanna.kim13@example.com,2025-12-20,Ho Chi Minh City,Cambodia
+48,SINA,LY,sina.ly48@example.com,10/19/2025,Singapore,Cambodia
+35,  Bopha  ,SENG,  ,2026-04-02,,South Korea
+51,  Sophal  ,  Heng  ,sophal.heng51@example.com,2025-09-25,Kuala Lumpur,Cambodia
+75,RITHY,Yin,rithy.yin75@example.com,2025-05-07,Phnom Penh,TH
+77,CHENDA,  Keo  ,chenda.keo77@example.com,03-Jul-2025,,Cambodia
+15,  Sokha  ,Sam,sokha.sam15@example.com,2025-11-06,Seoul,South Korea
+72,BOPHA,  Chhun  ,bopha.chhun72@example.com,29-Mar-2026,,Thailand
+4,sopheak,KEO,sopheak.keo4@example.com,25-Mar-2026,Siem Reap,South Korea
+37,Chenda,Kim,chenda.kim37@example.com,2025-02-03,Ho Chi Minh City,South Korea
+66,kanha,nou,kanha.nou66@example.com,05/01/2025,Singapore,Singapore
+63,  Mealea  ,  Long  ,mealea.long63@example.com,01/31/2026,Kuala Lumpur,thailand
+23,kosal,OUK,kosal.ouk23@example.com,2025-02-07,Siem Reap,S. Korea
+6,Chenda,keo,chenda.keo6@example.com,2025-11-28,Ho Chi Minh City,Malaysia
+71,pisey,chhun,pisey.chhun71@example.com,29-Mar-2026,Bangkok,S. Korea
+18,PISEY,None,pisey.pich18@example.com,2025-08-31,Phnom Penh,vietnam
+9,VIBOL,PICH,None,04/04/2025,Seoul,Kampuchea
+47,  Sokha  ,  Nou  ,sokha.nou47@example.com,2026-13-40,Kuala Lumpur,thailand
+53,Sreymom,MEAS,sreymom.meas53@example.com ,2025-06-04,Bangkok,Vietnam
+68,Kanha,OUK,kanha.ouk68@example.com,2025-05-14,Siem Reap,Malaysia
+21,  Pisey  ,Ly,pisey.ly21@example.com,2026-02-06,Ho Chi Minh City,Singapore
+69,THEARY,N/A,theary.vong69@example.com,2025-11-30,Singapore,Cambodia
+57,Chan,CHHUN,chan.chhun57@example.com,2025-12-31,Battambang,Malaysia
+62,Mealea,Nou,NULL,2025-13-40,Singapore,South Korea
+45,KOSAL,  Seng  ,kosal.seng45@example.com,2026-04-27,Phnom Penh,Thailand
+70,rachana,Pich,rachana.pich70@example.com,2025-07-22,Siem Reap,Thailand
+40,  Kanha  ,Nou,kanha.nou40@example.com,NULL,Kuala Lumpur,Cambodia
+80,mealea,pich,mealea.pich80@example.com,09/03/2025,Bangkok,Vietnam
+59,Pisey,Meas,pisey.meas59@example.com,17-Apr-2025,Singapore,Vietnam
+31,KOSAL,nou,kosal.nou31@example.com,2025-06-27,Ho Chi Minh City,TH
+58,VANNA,  Sam  ,  ,07-Jan-2026,Kuala Lumpur,Vietnam
+67,MEALEA,Ouk,mealea.ouk67@example.com,02/24/2026,Phnom Penh,South Korea
+11,Dara,  Sam  ,dara.sam11@example.com ,2025-03-19,Siem Reap,Vietnam
+55,  Rachana  ,N/A,rachana.ouk55@example.com ,2025-05-30,Bangkok,singapore
+49,BOPHA,long,bopha.long49@example.com,2025-12-18,Bangkok,Malaysia
+46,SINA,keo,sina.keo46@example.com,01-Aug-2025,Singapore,VN
+89,  Dara  ,kim,dara.kim89@example.com,NULL,Bangkok,Thailand
+16,RACHANA,  Heng  ,rachana.heng16@example.com,unknown,Siem Reap,Vietnam
+84,Chenda,,chenda.ouk84@example.com,2025-07-31,N/A,singapore
+7,Bopha,vong,bopha.vong7@example.com,2025-03-08,Siem Reap,KR
+45,KOSAL,  Seng  ,kosal.seng45@example.com,2026-04-27,Phnom Penh,Thailand
+41,MEALEA,CHHUN,mealea.chhun41@example.com,07/04/2025,Siem Reap,Malaysia
+17,SREYMOM,CHHUN,sreymom.chhun17@example.com,05-Jan-2026,Siem Reap,South Korea
+21,  Pisey  ,Ly,pisey.ly21@example.com,2026-02-06,Ho Chi Minh City,Singapore
+28,Theary,Ouk,theary.ouk28@example.com,2025-05-18,Bangkok,Cambodia
+64,RACHANA,HENG,kanha.pich3@example.com,2025-09-04,Siem Reap,Viet Nam
+8,  Pisey  ,KEO,pisey.keo8@example.com,2025-07-03,Battambang,South Korea
+31,KOSAL,nou,kosal.nou31@example.com,2025-06-27,Ho Chi Minh City,TH
+12,RITHY,chhun,rithy.chhun12@example.com,2026-13-40,Siem Reap,south korea
+44,sopheak,heng,sopheak.heng44@example.com,2025-11-22,Singapore,Thailand
+76,  Vanna  ,meas,vanna.meas76@example.com,08-Jul-2025,N/A,South Korea
+30,Dara,SOK,dara.sok30@example.com,29-Nov-2025,Singapore,South Korea
+54,CHENDA,none,chenda.ouk54example.com,2025-12-12,Singapore, Cambodia
+78,Kosal,Chan,kosal.chan78@example.com,2026-01-21,Battambang,South Korea
+32,Sina,  Pich  ,sina.pich32@example.com,,Ho Chi Minh City,Thailand
+1,  Vanna  ,Ly,vanna.ly1@example.com,NULL,,South Korea
+79,Sophal,  Heng  ,sophal.heng79@example.com,2026-01-05,N/A,Cambodia
+33,rachana,seng,rachana.seng33@example.com,2025-05-23,Siem Reap,Thailand
+67,MEALEA,Ouk,mealea.ouk67@example.com,02/24/2026,Phnom Penh,South Korea
+3,Kanha,PICH,kanha.pich3@example.com,2025-13-40,Kuala Lumpur,singapore
+87,THEARY,  Sam  ,theary.sam87@example.com,2025-01-25,,Malaysia
+38,SOKHA,  Sam  ,sokha.sam38@example.com,unknown,Battambang,MY
+65,Vibol,  Kim  ,vibol.kim65@example.com,2025-13-40,Siem Reap,MY
+29,sreymom,PICH,sreymom.pich29@example.com,2025-08-17,Ho Chi Minh City,Thailand
+91,SOPHAL,long,sophal.long91@example.com,03/29/2025,Battambang,Kampuchea
+52,Vibol,CHAN,bopha.long49@example.com,2025-06-05,Singapore,MY
+2,Sina,Chan,sina.chan2@example.com ,03/16/2026,N/A,South Korea
+5,KOSAL,LONG,kosal.long5@example.com,2025-10-13,N/A,VN
+60,  Vibol  ,  Chan  ,vibol.chan60@example.com ,07/30/2025,Phnom Penh,Malaysia
+96,Sopheak,sam,bopha.ly27@example.com,2025-05-28,Siem Reap,KH
+27,  Bopha  ,Ly,bopha.ly27@example.com,2025-05-18,Siem Reap,malaysia
+90,PISEY,seng,pisey.seng90@example.com,2025-12-07,Phnom Penh,SG
+88,  Sophal  ,  Chhun  ,sophal.chhun88@example.com,05/14/2025,Ho Chi Minh City, Cambodia
+82,ratanak,  Meas  ,ratanak.meas82@example.com,16-Mar-2025,N/A,cambodia
+98,chenda,  Meas  ,chenda.meas98@example.com,,Singapore,vietnam
+97,  Chenda  ,pich,chenda.pich97@example.com,2025-13-40,Siem Reap,Cambodia
+36,CHAN,Sok,chan.sok36@example.com,,Bangkok,Malaysia
+56,KANHA,sam,kanha.sam56@example.com,2025-04-06,N/A,South Korea
+93,SREYMOM,Ouk,  ,2025-02-14,Kuala Lumpur,Malaysia
+39,vanna,KIM,,09/06/2025,Kuala Lumpur,Malaysia
+19,SOPHAL,MEAS,sophal.meas19@example.com,2025-05-04,Battambang,Viet Nam
+20,  Dara  ,  Vong  ,dara.vong20@example.com,NULL,Battambang,Thailand
+50,VIBOL,  Kim  ,vibol.kim50@example.com,unknown,Kuala Lumpur,South Korea
+26,VIBOL,Meas,vibol.meas26@example.com,01/22/2026,Ho Chi Minh City,South Korea
+78,Kosal,Chan,kosal.chan78@example.com,2026-01-21,Battambang,South Korea
+85,CHENDA,NULL,chenda.pich85@example.com,2025-12-07,Phnom Penh,South Korea
+22,  Dara  ,Meas,dara.meas22@example.com,12/21/2025,Kuala Lumpur,Singapore
+14,vibol,kim,vibol.kim14@example.com,2025-04-25,Singapore,Thailand
+94,Sreymom,LY,sreymom.ly94@example.com,04/22/2026,Seoul,Malaysia
+34,MEALEA,Heng,mealea.heng34@example.com,2026-05-06,N/A,Thailand
+25,sina,chhun,sina.chhun25example.com,2025-08-14,,S. Korea
+42,  Rachana  ,  Ouk  ,rachana.ouk42@example.com,27-Jul-2025,Seoul,thailand
